@@ -1,6 +1,6 @@
 export default {
     //首页数据
-    getStoreData:() => {
+    getHomeData:() => {
         return {
             code:200,
             homeData:{
