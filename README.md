@@ -28,30 +28,27 @@
 
 ## 技术选型
 
-| 技术              | 说明                   | 官网                                                         |
-| ----------------- | --------------------- | ------------------------------------------------------------ |
-| Vue.js            | 一个流行的轻量级 JavaScript 框架，用于构建用户界面和单页应用程序的前端框架,版本号为^3.2.47| [https://v3.vuejs.org/](https://v3.vuejs.org/)                     |
-| Vue Router        | 路由管理器,版本号为 4.2.1 | [https://router.vuejs.org/](https://router.vuejs.org/)       |
-| Vuex              | 全局状态管理库,版本号为 4.0.2| [https://vuex.vuejs.org/](https://vuex.vuejs.org/)           |
-| Element Plus      | 前端UI框架,版本号为 2.3.4 | [https://element-plus.org/](https://element-plus.org/)       |
-| Axios             | 基于 Promise 的 HTTP 客户端,版本号为 1.4.0| [https://axios-http.com/](https://axios-http.com/) |
-|ECharts            | 数据可视化的JS图表库,版本号为 5.4.2 | [https://echarts.apache.org/en/index.html](https://echarts.apache.org/en/index.html)  |
-|GSAP               |高性能的JS动画库,版本号为 3.11.5    | [https://greensock.com/gsap/](https://greensock.com/gsap/) |
-|TinyMCE            | 富文本编辑器,版本号为 6.4.2       | [https://www.tiny.cloud/](https://www.tiny.cloud/) |
-|Universal Cookie   | 处理浏览器 cookie 的JS库,版本号为 4.0.4 | [https://www.npmjs.com/package/universal-cookie](https://www.npmjs.com/package/universal-cookie)   |
-|NProgress          |轻量级的进度条库,版本号为 0.2.0 | [https://ricostacruz.com/nprogress/](https://ricostacruz.com/nprogress/) |
-|VueUse/Core        |集成多个 Vue.js 的实用工具库,版本号为 10.1.2| [https://vueuse.org/core/](https://vueuse.org/core/) |
-|VueUse/Integrations|包含多个 Vue.js 集成插件库,版本号为 10.1.2  | [https://vueuse.org/integrations/](https://vueuse.org/integrations/) |
-|Windicss        |  CSS 框架，版本号为 4.3.2 | [https://cn.windicss.org/](https://cn.windicss.org/)       |
+| 技术                | 说明                   | 官网                                                         |
+| -----------------  | --------------------- | ------------------------------------------------------------ |
+| Vue.js             | 前端框架,版本号为3.2.47| [https://v3.vuejs.org/](https://v3.vuejs.org/)                     |
+| Vue Router         | 路由管理器,版本号为4 | [https://router.vuejs.org/](https://router.vuejs.org/)       |
+| Vuex               | 全局状态管理库,版本号为4.0.2| [https://vuex.vuejs.org/](https://vuex.vuejs.org/)           |
+| Axios              | 基于 Promise 的 HTTP 客户端,版本号为1.4.0| [https://axios-http.com/](https://axios-http.com/) |
+| Vant               | 基于 Vue.js 的移动端 UI 组件库,版本号为4.2.0 | [https://vant-contrib.gitee.io/vant/](https://vant-contrib.gitee.io/vant/)  |
+| Mock.js            |模拟数据生成库,版本号为1.1.0    | [https://github.com/nuysoft/Mock](https://github.com/nuysoft/Mock) |
+| PostCSS-pxtorem    | PostCSS 插件,版本号为5.1.1       | [https://github.com/cuth/postcss-pxtorem](https://github.com/cuth/postcss-pxtorem) |
+| amfe-flexible      | 设置 rem 基准值的 JavaScript 库,版本号为2.2.1 | [https://github.com/amfe/lib-flexible](https://github.com/amfe/lib-flexible)|
+| Less 和 Less-loader|处理 Less 样式文件 | [https://webpack-v3.jsx.app/loaders/less-loader/](https://webpack-v3.jsx.app/loaders/less-loader/) |
+| Webpack            |用于打包和构建 JavaScript 应用程序的现代化静态模块打包器,版本号为4.46.0| [https://webpack.js.org/](https://webpack.js.org/) |
 
 
 ## 插件
 
-| 插件              | 说明                                                     | 官网                                                         |
-| ----------------- | ------------------------------------------------------- | ------------------------------------------------------------ |
-| Vite              | 一个快速的构建工具和开发服务器，版本号为 4.3.2| [https://vitejs.dev/](https://vitejs.dev/)                     |
-| @vitejs/plugin-vue| 一个 Vite 插件，用于支持 Vue.js 单文件组件，版本号为 4.1.0| [https://cn.vitejs.dev/plugins/](https://cn.vitejs.dev/plugins/dev/)               |
-|vite-plugin-windicss| 一个快速的构建工具和开发服务器，版本号为 4.3.2| [https://www.viterc.cn/en/vite-plugin-windicss.html](https://www.viterc.cn/en/vite-plugin-windicss.html)                     |
+| 插件                   | 说明                                                    | 官网                                                        |
+| ----------------------| -------------------------------------------------------|------------------------------------------------------------ |
+| @vue/cli-plugin-babel |提供了 Babel 编译器的配置和集成，可以将 ES6+ 语法转换为兼容性更好的 JavaScript 代码| [https://cli.vuejs.org/core-plugins/babel.html](https://cli.vuejs.org/core-plugins/babel.html)                     |
+| @vue/cli-plugin-eslint|提供了 ESLint 的配置和集成，可以帮助开发者规范代码风格、发现潜在的问题和错误| [https://cli.vuejs.org/core-plugins/eslint.html](https://cli.vuejs.org/core-plugins/eslint.html)               |
+|@vue/cli-service|提供了开箱即用的开发服务器、打包构建、测试和部署等功能，可以帮助开发者快速构建和调试应用程序| [https://cli.vuejs.org/guide/cli-service.html](https://cli.vuejs.org/guide/cli-service.html)                     |
 
 
 ## 项目布局
