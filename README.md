@@ -30,7 +30,7 @@
 
 | 技术              | 说明                   | 官网                                                         |
 | ----------------- | --------------------- | ------------------------------------------------------------ |
-| Vue.js            | 前端框架,版本号为 3.2.47| [https://v3.vuejs.org/](https://v3.vuejs.org/)                     |
+| Vue.js            | 一个流行的轻量级 JavaScript 框架，用于构建用户界面和单页应用程序的前端框架,版本号为^3.2.47| [https://v3.vuejs.org/](https://v3.vuejs.org/)                     |
 | Vue Router        | 路由管理器,版本号为 4.2.1 | [https://router.vuejs.org/](https://router.vuejs.org/)       |
 | Vuex              | 全局状态管理库,版本号为 4.0.2| [https://vuex.vuejs.org/](https://vuex.vuejs.org/)           |
 | Element Plus      | 前端UI框架,版本号为 2.3.4 | [https://element-plus.org/](https://element-plus.org/)       |
