@@ -9,7 +9,7 @@
 
 ## 前言
 
-`online-ordering`项目致力于打造一个高效、便捷、安全的外卖订购服务，采用现阶段流行技术实现。
+`online-ordering`项目使用了 Vue.js 作为主要的前端框架，并结合了 Vue Router 和 Vuex 实现了单页应用程序的路由和状态管理。同时，该项目还使用了 Vant 组件库、Mock.js 数据生成库、PostCSS-pxtorem 插件等辅助工具，帮助开发者快速构建高质量的移动端应用程序。
 
 ## 项目介绍
 
