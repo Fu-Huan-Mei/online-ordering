@@ -1,6 +1,6 @@
 ## 友情提示
 
-> **快速体验项目**：切换为移动端，体验更佳[在线访问地址](http://order.toponlineweb.top) 。
+> **快速体验项目**：切换为移动端，体验更佳[在线访问地址](http://order.toponlineweb.top)。
 
 > **项目交流**：想要交流项目的朋友，可以加QQ或QQ邮箱与我联系。
 > - QQ：3533643117 
@@ -9,23 +9,21 @@
 
 ## 前言
 
-`online-ordering`项目致力于打造一个完整的后台管理系统，采用现阶段流行技术实现。
+`online-ordering`项目致力于打造一个高效、便捷、安全的外卖订购服务，采用现阶段流行技术实现。
 
 ## 项目介绍
 
-`manager-system`是一个商城后台管理系统的前端项目，基于Vue+Element实现，采用Docker容器化部署。主要包含后台面板、商品管理、用户管理、订单管理、管理员管理、系统设置、分销模块、统计报表等功能。
+`manager-system`是一个仿美团外卖的前端项目，基于Vue+Element实现，采用Docker容器化部署。该项目基于手机应用程序，涵盖多个页面，如首页、店铺、购物车、订单、个人中心、地址管理、注册和登录等。在店铺页面，用户可以浏览餐厅信息、菜单、评价等内容，并可以加入购物车或直接购买商品。购物车页面中，用户可以编辑购物车内容，进行全选/全不选/部分选、结算等操作。生成订单页面中，用户可以生成订单并进行支付。地址管理页面中，用户可以编辑或新增地址。个人中心页面中，用户可以查看订单记录、地址管理、账号管理等信息。在账号管理页面中，用户可以保存账号信息或退出登录。另外，用户还可以在注册和登录页面进行账号的注册和登录操作。
 
 
 ## 项目演示
 
-前端项目`manager-system`地址：https://github.com/Fu-Huan-Mei/manage-system.git
+前端项目`manager-system`地址：https://github.com/Fu-Huan-Mei/online-ordering.git
 
-项目在线演示地址： [http://www.toponlineweb.top](http://www.toponlineweb.top)  
-- 用户名：admin
-- 密码：admin
+项目在线演示地址： [http://order.toponlineweb.top](http://order.toponlineweb.top)  
 
 项目展示：
-![Alt text](image-18.png) 
+![Alt text](image.png)
 
 
 ## 技术选型
