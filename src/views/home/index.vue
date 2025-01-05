@@ -86,6 +86,7 @@ export default {
 
       //使用 onMounted() 函数可以确保在组件挂载后才执行某些操作，从而避免在组件挂载之前访问未初始化的属性或方法而导致的错误
       onMounted(() => {
+        console.log("~~虚拟DOM=",this);
         getHomeData();
 
       });
